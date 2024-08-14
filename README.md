@@ -1,5 +1,5 @@
 # MonkeyScript85
-A simple Code Translator made in C++ that translates 8085 Assembly code into a human-understandable "MonkeyScript", primarily designed to be used for the 8085 Programming Kit.
+A Simple Code Translator made in C++ that translates 8085 Assembly code into a human-understandable "MonkeyScript", primarily designed to be used for the 8085 Programming Kit.
 
 # Usage
 Simply Download the .exe file from the releases tab, and open it (you may get a smartscreen warning, but just run anyways). You will see a Monkey Logo and a pseudo terminal is opened, called MonkeyScript85 Terminal.<br><br>
